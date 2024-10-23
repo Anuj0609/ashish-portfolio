@@ -11,12 +11,12 @@ function Intro() {
       <h1 className="text-5xl font-thin">
         Hello
         <br />
-        I'm Ashish <br />
+        I&apos;m Ashish <br />
         Yadav
       </h1>
 
       <p className="leading-loose">
-        I'm a graphic designer with expertise in Adobe Illustrator and
+        I&apos;m a graphic designer with expertise in Adobe Illustrator and
         Photoshop, focusing on branding, logo design, and illustration. I create
         logos, posters, ads, banners, and more, always delivering reliable and
         punctual work.

@@ -4,7 +4,6 @@ import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import Skills from "./components/Skills";
 import CoverLetter from "./components/CoverLetter";
-import { Pill } from "./components/Pill";
 import Education from "./components/Education";
 
 export default function Home() {
