@@ -2,7 +2,10 @@ import React from "react";
 
 function Intro() {
   return (
-    <div id="home" className="space-y-8 px-5 py-7 bg-[#171321] mt-8 flex flex-col md:flex-row md:space-x-20 md:items-center md:px-40">
+    <div
+      id="home"
+      className="space-y-8 px-5 py-7 bg-[#171321] mt-8 flex flex-col md:flex-row md:space-x-20 md:items-center md:px-40"
+    >
       <img
         src="/profile-pic.png"
         alt="Profile-pic"
@@ -12,12 +15,12 @@ function Intro() {
         <h1 className="text-5xl font-thin md:text-8xl">
           Hello
           <br />
-          I'm Ashish <br />
+          I&apos;m Ashish <br />
           Yadav
         </h1>
 
         <p className="leading-loose md:w-5/6">
-          I'm a graphic designer with expertise in Adobe Illustrator and
+          I&apos;m a graphic designer with expertise in Adobe Illustrator and
           Photoshop, focusing on branding, logo design, and illustration. I
           create logos, posters, ads, banners, and more, always delivering
           reliable and punctual work.
