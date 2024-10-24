@@ -47,19 +47,19 @@ const Navbar = () => {
             Home
           </a>
           <a
-            href="#about"
+            href="#About"
             className="text-gray-300 hover:text-white block py-2"
           >
             About
           </a>
           <a
-            href="#services"
+            href="#Portfolio"
             className="text-gray-300 hover:text-white block py-2"
           >
             Portfolio
           </a>
           <a
-            href="#skills"
+            href="#Skills"
             className="text-gray-300 hover:text-white block py-2"
           >
             Skills
@@ -71,7 +71,7 @@ const Navbar = () => {
             Cover Letter
           </a>
           <a
-            href="#education"
+            href="#Education"
             className="text-gray-300 hover:text-white block py-2"
           >
             Education
